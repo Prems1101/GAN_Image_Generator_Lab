@@ -2,6 +2,9 @@
 
 This project is an interactive Streamlit application that lets you explore and play with different Generative Adversarial Network (GAN) models. You can test if images are "Real" or "Fake", and generate synthetic images on the fly!
 
+## 🌐 Live Demo
+You can access the live version of this app here: **[https://gan-img-generator-001.streamlit.app/](https://gan-img-generator-001.streamlit.app/)**
+
 ## 🚀 How to Run Locally
 
 ### Prerequisites
